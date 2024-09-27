@@ -15,3 +15,19 @@
 .gap-16{
   gap: 16px;
 }
+
+.text-h1 {
+  font: var(--heading1);
+}
+
+.text-h2 {
+  font: var(--heading2);
+}
+
+.text-h3 {
+  font: var(--heading3);
+}
+
+.text-small {
+  font: var(--paragraph-sm);
+}
