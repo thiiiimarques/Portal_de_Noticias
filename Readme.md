@@ -33,7 +33,7 @@ A página tem como propósito promover os notícias do mundo da tecnologia para 
 
 Confira o layout da landing page:
 
-<img src="capaProjeto.png" alt="Preview do projeto Zingen - Karaokê" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<img src="capaProjeto.png" alt="Página modelo do Projeto" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 
 ---
 
